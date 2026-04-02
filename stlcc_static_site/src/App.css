@@ -1,0 +1,206 @@
+.app-shell {
+  width: min(1280px, 95vw);
+  margin: 24px auto;
+  padding: 16px;
+}
+
+.app-header {
+  text-align: left;
+  margin-bottom: 18px;
+}
+
+.app-header h1 {
+  margin: 0;
+}
+
+.app-header p {
+  margin-top: 6px;
+  font-size: 1rem;
+  color: #3a4a57;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 16px;
+  align-items: start;
+}
+
+.panel {
+  border: 1px solid #c6d8e8;
+  border-radius: 16px;
+  padding: 16px;
+  background: linear-gradient(165deg, #ffffff 0%, #f5faff 100%);
+  box-shadow: 0 10px 24px rgba(14, 48, 74, 0.08);
+}
+
+.panel h2 {
+  margin: 0 0 12px;
+}
+
+.empty-state {
+  padding: 12px;
+  border-radius: 12px;
+  background: #eff6fd;
+  border: 1px dashed #95b7d4;
+  color: #27516f;
+}
+
+.scoreboard-panel {
+  min-height: 360px;
+}
+
+.rounds-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 12px;
+}
+
+.round-card {
+  border: 1px solid #d4e4f1;
+  border-radius: 14px;
+  background: #f8fbff;
+  overflow: hidden;
+}
+
+.round-card h3 {
+  margin: 0;
+  padding: 10px 12px;
+  background: linear-gradient(90deg, #145785, #1f7c96);
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.round-games {
+  display: grid;
+  gap: 8px;
+  padding: 10px;
+}
+
+.game-row {
+  border: 1px solid #d8e7f4;
+  border-radius: 12px;
+  padding: 8px;
+  background: #ffffff;
+  display: grid;
+  gap: 8px;
+}
+
+.game-players {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.player-chip {
+  padding: 6px 8px;
+  border-radius: 8px;
+  font-size: 0.84rem;
+  line-height: 1.2;
+  text-align: center;
+  flex: 1;
+}
+
+.white-chip {
+  background: #f1f5f8;
+  border: 1px solid #c3d2dd;
+  color: #203442;
+}
+
+.black-chip {
+  background: #283a49;
+  border: 1px solid #1e2e3b;
+  color: #f1f7fc;
+}
+
+.vs-pill {
+  border: 1px solid #d0deea;
+  border-radius: 999px;
+  background: #edf5fb;
+  color: #35556e;
+  font-size: 0.72rem;
+  padding: 3px 8px;
+  white-space: nowrap;
+}
+
+.result-pill {
+  justify-self: end;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  border: 1px solid transparent;
+}
+
+.result-pill.white {
+  background: #e8f3fe;
+  border-color: #88b6df;
+  color: #144b77;
+}
+
+.result-pill.black {
+  background: #e8ebef;
+  border-color: #8da0b2;
+  color: #273846;
+}
+
+.result-pill.draw {
+  background: #fff3d7;
+  border-color: #d6b66f;
+  color: #7a5410;
+}
+
+.result-pill.pending {
+  background: #f1f4f7;
+  border-color: #c2ced8;
+  color: #526576;
+}
+
+.leaderboard-panel input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+  border: 1px solid #b7cde0;
+  border-radius: 10px;
+  padding: 9px 11px;
+  font-size: 0.95rem;
+}
+
+.leaderboard-panel table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid #d4e4f1;
+}
+
+.leaderboard-panel thead th {
+  background: #0f5f86;
+  color: #ffffff;
+  text-align: left;
+  padding: 10px;
+  font-size: 0.82rem;
+}
+
+.leaderboard-panel tbody td {
+  padding: 9px 10px;
+  border-top: 1px solid #e4eef7;
+  font-size: 0.9rem;
+  color: #1f3649;
+}
+
+.leaderboard-panel tbody tr:nth-child(even) {
+  background: #f8fcff;
+}
+
+@media (max-width: 980px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .app-shell {
+    margin: 10px auto;
+    padding: 10px;
+  }
+}

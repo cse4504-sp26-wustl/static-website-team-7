@@ -1,0 +1,36 @@
+:root {
+  font-family: 'Trebuchet MS', 'Gill Sans', 'Candara', sans-serif;
+  line-height: 1.4;
+  font-weight: 400;
+  color: #112437;
+  background: radial-gradient(circle at 15% 5%, #e6f4ff 0%, #f2f8fc 45%, #edf4fb 100%);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Book Antiqua', 'Palatino Linotype', serif;
+  color: #112437;
+}
+
+h1 {
+  font-size: clamp(1.9rem, 2.8vw, 2.75rem);
+  letter-spacing: 0.02em;
+}
