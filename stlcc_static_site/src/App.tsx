@@ -16,7 +16,7 @@ function App() {
         <h1>Chess Tournament Dashboard</h1>
         <p>Live pairings, game results, and leaderboard rankings</p>
       </header>
-      <DataHandler setRounds={setRounds} setPlayers={setPlayers} dataDirectory="/data" />
+      <DataHandler setRounds={setRounds} setPlayers={setPlayers} dataDirectory="data" />
       <main className="dashboard-grid">
         <PlayerList players={players} />
         <Scoreboard rounds={rounds} players={players} />
