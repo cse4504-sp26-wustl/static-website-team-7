@@ -2,13 +2,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Azer Mirzoev"]
-[Black "Ernesto Moreno Romero"]
+[White "Jupiter Betelgeuse"]
+[Black "Earth Spica"]
 [Result "*"]
-[WhiteID "7719164"]
-[WhiteRating "2527"]
-[BlackID "74712509"]
-[BlackRating "1728"]
+[WhiteID "1"]
+[WhiteRating "2000"]
+[BlackID "9"]
+[BlackRating "950"]
 
 *
 
@@ -18,13 +18,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Inigo Argandona Riveiro"]
-[Black "Alex Boo Aldanondo"]
+[White "Saturn Rigel"]
+[Black "Ceres Altair"]
 [Result "*"]
-[WhiteID "35507824"]
-[WhiteRating "2408"]
-[BlackID "26829533"]
-[BlackRating "1679"]
+[WhiteID "2"]
+[WhiteRating "1850"]
+[BlackID "10"]
+[BlackRating "820"]
 
 *
 
@@ -34,13 +34,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Elvis Hernandez"]
-[Black "Inaki Aizpurua Zufiria"]
+[White "Mars Antares"]
+[Black "Eris Deneb"]
 [Result "*"]
-[WhiteID "89622614"]
-[WhiteRating "2282"]
-[BlackID "51958349"]
-[BlackRating "1638"]
+[WhiteID "3"]
+[WhiteRating "1725"]
+[BlackID "11"]
+[BlackRating "675"]
 
 *
 
@@ -50,13 +50,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Jose Luis Guijarro Galan"]
-[Black "Christian Sanchez Merino"]
+[White "Venus Sirius"]
+[Black "Makemake Regulus"]
 [Result "*"]
-[WhiteID "2929559"]
-[WhiteRating "2222"]
-[BlackID "44034603"]
-[BlackRating "1624"]
+[WhiteID "4"]
+[WhiteRating "1610"]
+[BlackID "12"]
+[BlackRating "510"]
 
 *
 
@@ -66,13 +66,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Eduardo Sanz Perez"]
-[Black "Patxi Martikorena Endara"]
+[White "Neptune Vega"]
+[Black "a b"]
 [Result "*"]
-[WhiteID "73647005"]
-[WhiteRating "2155"]
-[BlackID "20190742"]
-[BlackRating "1619"]
+[WhiteID "5"]
+[WhiteRating "1490"]
+[BlackID "13"]
+[BlackRating "500"]
 
 *
 
@@ -82,13 +82,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Juan Carlos Lakunza Oyarbide"]
-[Black "Patricia Gonzalez Pueyo"]
+[White "Uranus Arcturus"]
+[Black "c d"]
 [Result "*"]
-[WhiteID "57424966"]
-[WhiteRating "2102"]
-[BlackID "1687324"]
-[BlackRating "1605"]
+[WhiteID "6"]
+[WhiteRating "1330"]
+[BlackID "14"]
+[BlackRating "400"]
 
 *
 
@@ -98,13 +98,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Fco J Ladron De Guevara Galar"]
-[Black "Silvestre Moreiro Sanchez"]
+[White "Mercury Canopus"]
+[Black "e f"]
 [Result "*"]
-[WhiteID "61417866"]
-[WhiteRating "2087"]
-[BlackID "64537577"]
-[BlackRating "1600"]
+[WhiteID "7"]
+[WhiteRating "1215"]
+[BlackID "15"]
+[BlackRating "300"]
 
 *
 
@@ -114,301 +114,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 16, 2026"]
 [Round "1"]
-[White "Mikel Alvarado Fernandez"]
-[Black "Daniel Garcia Nestar"]
+[White "Pluto Pollux"]
+[Black "g h"]
 [Result "*"]
-[WhiteID "8509345"]
-[WhiteRating "2010"]
-[BlackID "35933173"]
-[BlackRating "1574"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Alain Darrigues"]
-[Black "Martin Portugal Sarasola"]
-[Result "*"]
-[WhiteID "36588737"]
-[WhiteRating "1996"]
-[BlackID "29268756"]
-[BlackRating "1574"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Claude Maruejols"]
-[Black "Gautier Gallas"]
-[Result "*"]
-[WhiteID "12587711"]
-[WhiteRating "1990"]
-[BlackID "80022600"]
-[BlackRating "1542"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Antonio Segovia Sanchez"]
-[Black "Carlos Berdote Alonso"]
-[Result "*"]
-[WhiteID "23071992"]
-[WhiteRating "1983"]
-[BlackID "31000323"]
-[BlackRating "1508"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Fco. Javier Rodriguez Cabrera"]
-[Black "Jose Antoni Irulegi Garmendia"]
-[Result "*"]
-[WhiteID "52210057"]
-[WhiteRating "1973"]
-[BlackID "76900796"]
-[BlackRating "1503"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Juan Manuel Riesco Lecuona"]
-[Black "Imanol Azpiroz Dorronsoro"]
-[Result "*"]
-[WhiteID "72373575"]
-[WhiteRating "1931"]
-[BlackID "39165506"]
-[BlackRating "1480"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Jokin Fernandez Zubitur"]
-[Black "Juan Jose Otegui Piquer"]
-[Result "*"]
-[WhiteID "45187735"]
-[WhiteRating "1907"]
-[BlackID "39246733"]
-[BlackRating "1471"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Diego Bello Castano"]
-[Black "Ramon Elduayen Echave"]
-[Result "*"]
-[WhiteID "51494892"]
-[WhiteRating "1893"]
-[BlackID "1623639"]
-[BlackRating "1455"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Ernesto Fuente San Sebastian"]
-[Black "Eugenio Gorrochategui Torres"]
-[Result "*"]
-[WhiteID "29659101"]
-[WhiteRating "1880"]
-[BlackID "57383356"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Siu Hung Tung"]
-[Black "Juan Maria Santos Martinez"]
-[Result "*"]
-[WhiteID "59662218"]
-[WhiteRating "1875"]
-[BlackID "93785470"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Mikel Zubia Aramburu"]
-[Black "Helios Botaya"]
-[Result "*"]
-[WhiteID "68241042"]
-[WhiteRating "1834"]
-[BlackID "64040787"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Aritz Izagirre Alsua"]
-[Black "Alex Lopez Zorzano"]
-[Result "*"]
-[WhiteID "87059630"]
-[WhiteRating "1823"]
-[BlackID "81549310"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Joseba Izquierdo Arruferia"]
-[Black "Jose Leon Navarro Armendariz"]
-[Result "*"]
-[WhiteID "73259226"]
-[WhiteRating "1807"]
-[BlackID "22739850"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Fernando Markina Amutxastegi"]
-[Black "Pablo Arraiza Gozalo"]
-[Result "*"]
-[WhiteID "11349636"]
-[WhiteRating "1797"]
-[BlackID "20125701"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Veronica Iglesias Gonzalez"]
-[Black "Aritz Abalia Patino"]
-[Result "*"]
-[WhiteID "35020825"]
-[WhiteRating "1790"]
-[BlackID "27047763"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Jesus Maria Espin Laborde"]
-[Black "Jon Jauregi Barandiaran"]
-[Result "*"]
-[WhiteID "62455142"]
-[WhiteRating "1777"]
-[BlackID "13622532"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Neik Mohseni"]
-[Black "Jesus Goienetxea Yarza"]
-[Result "*"]
-[WhiteID "32680999"]
-[WhiteRating "1747"]
-[BlackID "51094439"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Andoni Orube Bona"]
-[Black "Jose L Garcia De Madinabeitia"]
-[Result "*"]
-[WhiteID "86783634"]
-[WhiteRating "1743"]
-[BlackID "29741396"]
-[BlackRating "0"]
-
-*
-
-
-
-[Event "GUI"]
-[Site "Saint Louis Chess Club, St. Louis, MO"]
-[Date "April 16, 2026"]
-[Round "1"]
-[White "Tomas Lazkano Gaite"]
-[Black "Vigen Darbinyan"]
-[Result "*"]
-[WhiteID "3686227"]
-[WhiteRating "1736"]
-[BlackID "81349835"]
-[BlackRating "0"]
+[WhiteID "8"]
+[WhiteRating "1080"]
+[BlackID "16"]
+[BlackRating "200"]
 
 *
 
