@@ -1,9 +1,11 @@
+@import '../colors/colors.css';
+
 :root {
   font-family: 'Trebuchet MS', 'Gill Sans', 'Candara', sans-serif;
   line-height: 1.4;
   font-weight: 400;
-  color: #112437;
-  background: radial-gradient(circle at 15% 5%, #e6f4ff 0%, #f2f8fc 45%, #edf4fb 100%);
+  color: var(--color-text);
+  background: var(--color-background);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +29,7 @@ h1,
 h2,
 h3 {
   font-family: 'Book Antiqua', 'Palatino Linotype', serif;
-  color: #112437;
+  color: var(--color-text);
 }
 
 h1 {

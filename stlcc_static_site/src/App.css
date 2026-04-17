@@ -27,10 +27,10 @@
 }
 
 .panel {
-  border: 1px solid #c6d8e8;
+  border: 1px solid var(--color-border);
   border-radius: 16px;
   padding: 16px;
-  background: linear-gradient(165deg, #ffffff 0%, #f5faff 100%);
+  background: linear-gradient(165deg, var(--color-panel-bg) 0%, var(--color-surface) 100%);
   box-shadow: 0 10px 24px rgba(14, 48, 74, 0.08);
 }
 
@@ -66,7 +66,7 @@
 .round-card h3 {
   margin: 0;
   padding: 10px 12px;
-  background: linear-gradient(90deg, #145785, #1f7c96);
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
   color: #ffffff;
   font-size: 1rem;
 }
@@ -146,7 +146,7 @@
 
 .result-pill.draw {
   background: #fff3d7;
-  border-color: #d6b66f;
+  border-color: var(--color-accent);
   color: #7a5410;
 }
 
@@ -176,7 +176,7 @@
 }
 
 .leaderboard-panel thead th {
-  background: #0f5f86;
+  background: var(--color-primary);
   color: #ffffff;
   text-align: left;
   padding: 10px;
@@ -194,6 +194,39 @@
   background: #f8fcff;
 }
 
+/* ── Sponsors ─────────────────────────────────────────── */
+
+.sponsors-section {
+  margin-top: 32px;
+  padding: 24px 16px;
+  border-top: 2px solid var(--color-border);
+  text-align: center;
+}
+
+.sponsors-section h2 {
+  margin: 0 0 20px;
+}
+
+.sponsors-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.sponsors-row:last-child {
+  margin-bottom: 0;
+}
+
+.sponsor-logo {
+  width: 160px;
+  height: 80px;
+  object-fit: contain;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+
 @media (max-width: 980px) {
   .dashboard-grid {
     grid-template-columns: 1fr;
@@ -204,3 +237,4 @@
     padding: 10px;
   }
 }
+

@@ -1,0 +1,33 @@
+/*
+ * Tournament color customization
+ *
+ * Edit the values below to change the color scheme of the website.
+ * Colors may be set using Hex values (e.g. #145785) or RGB values
+ * (e.g. rgb(20, 87, 133)).
+ */
+
+:root {
+	/* Primary color — used for major headings, panel headers, and table headers */
+	--color-primary: #145785;
+
+	/* Secondary color — used for gradients and accents alongside the primary */
+	--color-secondary: #1f7c96;
+
+	/* Accent color — used for highlights such as draw results and decorative borders */
+	--color-accent: #d6b66f;
+
+	/* Main text color */
+	--color-text: #112437;
+
+	/* Subtle body/page background (supports gradients) */
+	--color-background: radial-gradient(circle at 15% 5%, #e6f4ff 0%, #f2f8fc 45%, #edf4fb 100%);
+
+	/* Panel / card background */
+	--color-panel-bg: #ffffff;
+
+	/* Light surface used inside panels */
+	--color-surface: #f5faff;
+
+	/* Border color for panels and cards */
+	--color-border: #c6d8e8;
+}
