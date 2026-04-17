@@ -1,12 +1,11 @@
 import { useEffect, useState } from 'react';
 
 const SPONSORS_PER_ROW = 5;
-const MAX_SPONSORS = 100;
 
 async function loadSponsorUrls(): Promise<string[]> {
 	const urls: string[] = [];
 
-	for (let index = 1; index <= MAX_SPONSORS; index++) {
+	for (let index = 1; ; index++) {
 		const url = `sponsors/sponsor${index}.png`;
 		try {
 			const res = await fetch(url);
@@ -59,7 +58,7 @@ export function Sponsors() {
 
 	return (
 		<section className="sponsors-section">
-			<h2>Sponsors</h2>
+			<h2>Our Sponsors</h2>
 			{rows.map((row, rowIndex) => (
 				<div key={rowIndex} className="sponsors-row">
 					{row.map((url, imgIndex) => (
