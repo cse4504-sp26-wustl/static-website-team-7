@@ -1,0 +1,96 @@
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Mercury Canopus"]
+[Black "Jupiter Betelgeuse"]
+[Result "*"]
+[WhiteID "10000007"]
+[WhiteRating "1215"]
+[BlackID "10000001"]
+[BlackRating "2000"]
+
+*
+
+
+
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Saturn Rigel"]
+[Black "Pluto Pollux"]
+[Result "*"]
+[WhiteID "10000002"]
+[WhiteRating "1850"]
+[BlackID "10000008"]
+[BlackRating "1080"]
+
+*
+
+
+
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Mars Antares"]
+[Black "Earth Spica"]
+[Result "*"]
+[WhiteID "10000003"]
+[WhiteRating "1725"]
+[BlackID "10000009"]
+[BlackRating "950"]
+
+*
+
+
+
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Venus Sirius"]
+[Black "Ceres Altair"]
+[Result "*"]
+[WhiteID "10000004"]
+[WhiteRating "1610"]
+[BlackID "10000010"]
+[BlackRating "820"]
+
+*
+
+
+
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Neptune Vega"]
+[Black "Eris Deneb"]
+[Result "*"]
+[WhiteID "10000005"]
+[WhiteRating "1490"]
+[BlackID "10000011"]
+[BlackRating "675"]
+
+*
+
+
+
+[Event "GUI"]
+[Site "Saint Louis Chess Club, St. Louis, MO"]
+[Date "April 23, 2026"]
+[Round "1"]
+[White "Uranus Arcturus"]
+[Black "Makemake Regulus"]
+[Result "WF"]
+[WhiteID "10000006"]
+[WhiteRating "1330"]
+[BlackID "10000012"]
+[BlackRating "510"]
+
+WF
+
+
+
