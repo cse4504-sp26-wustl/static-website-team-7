@@ -1,0 +1,73 @@
+/*
+ * ============================================================
+ *  TOURNAMENT COLOR CUSTOMIZATION
+ * ============================================================
+ *
+ * Edit the color values below to change the look of the website
+ * to match your tournament's colors.
+ *
+ * HOW TO FIND A COLOR VALUE
+ * --------------------------
+ * Colors can be specified in two formats:
+ *
+ *   Hex (hexadecimal) — starts with a '#' followed by 6 characters:
+ *     Example:  #ff0000  (red)
+ *
+ *   RGB — stands for Red, Green, Blue.
+ *   Each number is between 0 and 255:
+ *     Example:  rgb(255, 0, 0)  (red)
+ *
+ * To find a hex or RGB value for any color you like, visit:
+ *   https://www.google.com/search?q=color+picker
+ * Google's built-in color picker will show you both formats.
+ *
+ * COMMON COLOR REFERENCE
+ * -----------------------
+ *   Black   →  #000000  or  rgb(0, 0, 0)
+ *   White   →  #ffffff  or  rgb(255, 255, 255)
+ *   Red     →  #ff0000  or  rgb(255, 0, 0)
+ *   Green   →  #008000  or  rgb(0, 128, 0)
+ *   Blue    →  #0000ff  or  rgb(0, 0, 255)
+ *
+ * INSTRUCTIONS
+ * ------------
+ * Replace the color value to the right of the colon (:) for each
+ * variable below. Do NOT change the variable names (the parts that
+ * start with --color-). Save the file and reload the website to see
+ * your changes.
+ *
+ * Example — change the primary color to red:
+ *   BEFORE:  --color-primary: #145785;
+ *   AFTER:   --color-primary: #ff0000;
+ */
+
+:root {
+  /* Primary color — used for panel headers and the leaderboard table header */
+  --color-primary: #145785;
+
+  /* Secondary color — used alongside the primary color in gradients */
+  --color-secondary: #1f7c96;
+
+  /* Accent color — used for highlights such as draw results and decorative borders */
+  --color-accent: #d6b66f;
+
+  /* Main text color — used for headings and body text */
+  --color-text: #112437;
+
+  /* Page background color */
+  --color-background: radial-gradient(
+    circle at 15% 5%,
+    #e6f4ff 0%,
+    #f2f8fc 45%,
+    #edf4fb 100%
+  );
+
+  /* Panel / card background color */
+  --color-panel-bg: #ffffff;
+
+  /* Light surface color used inside panels */
+  --color-surface: #f5faff;
+
+  /* Border color for panels and cards */
+  --color-border: #c6d8e8;
+}

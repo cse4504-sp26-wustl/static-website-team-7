@@ -2,6 +2,7 @@ import { useState } from 'react';
 import DataHandler from './components/DataHandler';
 import { PlayerList } from './components/PlayerList';
 import { Scoreboard } from './components/Scoreboard';
+import { Sponsors } from './components/Sponsors';
 import type { Player, RoundRecord } from './components/types';
 
 import './App.css';
@@ -21,6 +22,7 @@ function App() {
         <PlayerList players={players} />
         <Scoreboard rounds={rounds} players={players} />
       </main>
+      <Sponsors />
     </div>
   );
 }
