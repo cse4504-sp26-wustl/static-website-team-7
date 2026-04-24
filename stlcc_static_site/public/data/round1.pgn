@@ -2,13 +2,13 @@
 [Site "Saint Louis Chess Club, St. Louis, MO"]
 [Date "April 23, 2026"]
 [Round "1"]
-[White "Mercury Canopus"]
-[Black "Jupiter Betelgeuse"]
+[White "Jupiter Betelgeuse"]
+[Black "Mercury Canopus"]
 [Result "*"]
-[WhiteID "10000007"]
-[WhiteRating "1215"]
-[BlackID "10000001"]
-[BlackRating "2000"]
+[WhiteID "10000001"]
+[WhiteRating "2000"]
+[BlackID "10000007"]
+[BlackRating "1215"]
 
 *
 
@@ -84,13 +84,13 @@
 [Round "1"]
 [White "Uranus Arcturus"]
 [Black "Makemake Regulus"]
-[Result "WF"]
+[Result "*"]
 [WhiteID "10000006"]
 [WhiteRating "1330"]
 [BlackID "10000012"]
 [BlackRating "510"]
 
-WF
+*
 
 
 
